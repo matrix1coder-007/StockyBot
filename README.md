@@ -1,0 +1,2 @@
+# StockyBot
+stocky-bot
